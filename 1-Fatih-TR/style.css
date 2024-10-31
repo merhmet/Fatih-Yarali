@@ -587,3 +587,22 @@ button {
     margin: 20px auto;
   }
 }
+
+
+
+
+
+.language-container select {
+        display: flex;
+        border-radius: 15px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 10px;
+        padding-right: 10px;
+}
+.language-container {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ padding-bottom: 10px;
+} 
