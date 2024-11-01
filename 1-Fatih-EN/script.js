@@ -186,26 +186,24 @@ function order() {
 
 function okay(event) {
   let container = document.getElementsByClassName("invoice")[0];
-  if (event.target.innerText == "Dank U") {
+  if (event.target.innerText == "Ok") {
     container.style.display = "none";
     document.getElementsByClassName("purchase-cover")[0].style.display = "none";
   } else {
-    event.target.innerText = "Dank U";
+    event.target.innerText = "Ok";
     event.target.parentElement.getElementsByClassName(
     "order-details")[
-    0].innerHTML = `<em class='thanks'>Bedankt voor het winkelen bij ons</em>`;
+    0].innerHTML = `<em class='thanks'>Thanks for shopping with us</em>`;
     container.style.height = "180px";
   }
 }
-
-
 //}
 
 // button components for better Ux {
 function AddBtn() {
   return `
 <div>
-  <button onclick='addItem(this)' class='add-btn'>Toevoegen <i class='fas fa-chevron-right'></i></button>
+  <button onclick='addItem(this)' class='add-btn'>Add <i class='fas fa-chevron-right'></i></button>
 </div>`;
 }
 
@@ -285,8 +283,8 @@ function Banner() {
   <div class='cover purchase-cover'></div>
   <div class='cart'>${CartSideNav()}</div>
   <div class='stock-limit'>
-    <em>U kunt voor elk product slechts 10 artikelen kopen</em>
-    <button class='btn-ok' onclick='limitPurchase(this)'>Oké</button>
+    <em>You Can Only Buy 10 Items For Each Product</em>
+    <button class='btn-ok' onclick='limitPurchase(this)'>Okay</button>
   </div>
 <div  class='order-now'></div>
 </div>`;
@@ -296,23 +294,18 @@ function CartSideNav() {
   return `
 <div class='side-nav'>
   <button onclick='sideNav(0)'><i class='fas fa-times'></i></button>
-  <h2>Producten</h2>
+  <h2>Products</h2>
   <div class='cart-items'></div>
   <div class='final'>
     <strong>Total: € <span class='total'>0</span>.00/-</strong>
     <div class='action'>
-      <button onclick='buy(1)' class='btn buy'>Om te kopen<i class='fas fa-credit-card' style='color:#6665dd;'></i></button>
-      <button onclick='clearCart()' class='btn clear'>Verwijder producten<i class='fas fa-trash' style='color:#bb342f;'></i></button>
+      <button onclick='buy(1)' class='btn buy'>To buy<i class='fas fa-credit-card' style='color:#6665dd;'></i></button>
+      <button onclick='clearCart()' class='btn clear'>Clear Products <i class='fas fa-trash' style='color:#bb342f;'></i></button>
 
 
 <a href="mailto:smartech.mariakerke@gmail.com">
-      <button onclick='Send Email()' class='Send Email'>Zend Mail<i class='fa fa-paper-plane' style='color:#bb342f;'></i></button>
+      <button onclick='Send Email()' class='Send Email'>Send Email<i class='fa fa-paper-plane' style='color:#bb342f;'></i></button>
 <a href="mailto:smartech.mariakerke@gmail.com">
-
-
-
-
-
 
 </a>
  </div>
@@ -336,14 +329,14 @@ function Purchase() {
   </div>
 <hr>
   <div class='payment'>
-    <em>betaling</em>
+    <em>payment</em>
     <div>
-      <p>totaal te betalen bedrag:</p><span class='pay'>€ ${toPay}</span>
+      <p>total amount to be paid:</p><span class='pay'>€ ${toPay}</span>
     </div>
   </div>
   <div class='order'>
-    <button onclick='order()' class='btn-order btn'>Bestel nu</button>
-    <button onclick='buy(0)' class='btn-cancel btn'>Annuleren</button>
+    <button onclick='order()' class='btn-order btn'>Order Now</button>
+    <button onclick='buy(0)' class='btn-cancel btn'>Cancel</button>
   </div>
 </div>`;
 }
@@ -354,24 +347,12 @@ function OrderConfirm() {
   return `
 <div>
   <div class='order-details'>
-    <em>Uw bestelling is geplaatst</em>
-    <p>Uw bestellings-ID: : <span>${orderId}</span></p>
-    <p>Uw bestelling wordt binnen 3-5 werkdagen bij u afgeleverd.</p>
-    <p>je kunt betalen<span>€ ${totalCost}</span> Nadat de producten bij u zijn afgeleverd, kunt u betalen met een kaart of een andere online transactiemethode.</p>
+    <em>Your order has been placed</em>
+    <p>Your order ID: : <span>${orderId}</span></p>
+    <p>Your order will be delivered to you within 3-5 business days.</p>
+    <p>you can pay <span>€ ${totalCost}</span> After the products are delivered to you, you can pay by card or any online transaction method.</p>
   </div>
-
-
-
-
-
   <button onclick='okay(event)' class='btn-ok'>OK</button>
-
-
-
-
-
-
-
 
 </div>`;
 }
@@ -418,7 +399,7 @@ function ToggleBackBtns() {
 }
 
 function CartIsEmpty() {
-  let emptyCart = `<span class='empty-cart'>Het lijkt erop dat u geen artikelen aan uw winkelwagen heeft toegevoegd</span>`;
+  let emptyCart = `<span class='empty-cart'>It Looks Like You Didn't Add Any Items to Your Cart</span>`;
   if (cartDetails.length == 0) {
     document.getElementsByClassName("cart-items")[0].innerHTML = emptyCart;
   }
