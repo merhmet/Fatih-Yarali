@@ -186,14 +186,14 @@ function order() {
 
 function okay(event) {
   let container = document.getElementsByClassName("invoice")[0];
-  if (event.target.innerText == "Tskler") {
+  if (event.target.innerText == "Danke") {
     container.style.display = "none";
     document.getElementsByClassName("purchase-cover")[0].style.display = "none";
   } else {
-    event.target.innerText = "Tskler";
+    event.target.innerText = "Danke";
     event.target.parentElement.getElementsByClassName(
     "order-details")[
-    0].innerHTML = `<em class='thanks'>Bizimle alışveriş yaptığınız için teşekkürler</em>`;
+    0].innerHTML = `<em class='thanks'>Vielen Dank für Ihren Einkauf bei uns</em>`;
     container.style.height = "180px";
   }
 }
@@ -203,7 +203,7 @@ function okay(event) {
 function AddBtn() {
   return `
 <div>
-  <button onclick='addItem(this)' class='add-btn'>Ekle <i class='fas fa-chevron-right'></i></button>
+  <button onclick='addItem(this)' class='add-btn'>Hinzufügen <i class='fas fa-chevron-right'></i></button>
 </div>`;
 }
 
@@ -283,7 +283,7 @@ function Banner() {
   <div class='cover purchase-cover'></div>
   <div class='cart'>${CartSideNav()}</div>
   <div class='stock-limit'>
-    <em>You Can Only Buy 10 Items For Each Product</em>
+    <em>Sie können für jedes Produkt nur 10 Artikel kaufen</em>
     <button class='btn-ok' onclick='limitPurchase(this)'>Okay</button>
   </div>
 <div  class='order-now'></div>
@@ -294,17 +294,17 @@ function CartSideNav() {
   return `
 <div class='side-nav'>
   <button onclick='sideNav(0)'><i class='fas fa-times'></i></button>
-  <h2>Ürünler</h2>
+  <h2>Produkte</h2>
   <div class='cart-items'></div>
   <div class='final'>
     <strong>Total: € <span class='total'>0</span>.00/-</strong>
     <div class='action'>
-      <button onclick='buy(1)' class='btn buy'>Satın almak<i class='fas fa-credit-card' style='color:#6665dd;'></i></button>
-      <button onclick='clearCart()' class='btn clear'>Temizle Ürünleri <i class='fas fa-trash' style='color:#bb342f;'></i></button>
+      <button onclick='buy(1)' class='btn buy'>Zu kaufen<i class='fas fa-credit-card' style='color:#6665dd;'></i></button>
+      <button onclick='clearCart()' class='btn clear'>Klare Produkte <i class='fas fa-trash' style='color:#bb342f;'></i></button>
 
 
 <a href="mailto:smartech.mariakerke@gmail.com">
-      <button onclick='Send Email()' class='Send Email'>Mail Gönder<i class='fa fa-paper-plane' style='color:#bb342f;'></i></button>
+      <button onclick='Send Email()' class='Send Email'>E-Mail senden<i class='fa fa-paper-plane' style='color:#bb342f;'></i></button>
 <a href="mailto:smartech.mariakerke@gmail.com">
 
 </a>
@@ -329,14 +329,14 @@ function Purchase() {
   </div>
 <hr>
   <div class='payment'>
-    <em>ödeme</em>
+    <em>Zahlung</em>
     <div>
-      <p>ödenecek toplam tutar:</p><span class='pay'>€ ${toPay}</span>
+      <p>Gesamtbetrag, der zu zahlen ist:</p><span class='pay'>€ ${toPay}</span>
     </div>
   </div>
   <div class='order'>
-    <button onclick='order()' class='btn-order btn'>Şimdi Sipariş Ver</button>
-    <button onclick='buy(0)' class='btn-cancel btn'>Iptal</button>
+    <button onclick='order()' class='btn-order btn'>Jetzt bestellen</button>
+    <button onclick='buy(0)' class='btn-cancel btn'>Stornieren</button>
   </div>
 </div>`;
 }
@@ -347,12 +347,12 @@ function OrderConfirm() {
   return `
 <div>
   <div class='order-details'>
-    <em>siparişiniz verildi</em>
-    <p>Sipariş kimliğiniz: : <span>${orderId}</span></p>
-    <p>siparişiniz 3-5 iş günü içerisinde tarafınıza teslim edilecektir</p>
-    <p>ödeyebilirsin <span>€ ${totalCost}</span> Ürünler tarafınıza teslim edildikten sonra kartla veya herhangi bir online işlem yöntemiyle</p>
+    <em>Ihre Bestellung wurde aufgegeben</em>
+    <p>Ihre Bestellnummer: : <span>${orderId}</span></p>
+    <p>Ihre Bestellung wird Ihnen innerhalb von 3-5 Werktagen zugestellt.</p>
+    <p>ödeyebilirsin <span>€ ${totalCost}</span>Nachdem die Produkte an Sie geliefert wurden, können Sie mit Karte oder einer anderen Online-Transaktionsmethode bezahlen.</p>
   </div>
-  <button onclick='okay(event)' class='btn-ok'>Tamam</button>
+  <button onclick='okay(event)' class='btn-ok'>OK</button>
 
 </div>`;
 }
@@ -399,7 +399,7 @@ function ToggleBackBtns() {
 }
 
 function CartIsEmpty() {
-  let emptyCart = `<span class='empty-cart'>Görünüşe göre Sepete Herhangi Bir Ürün Eklememişsiniz</span>`;
+  let emptyCart = `<span class='empty-cart'>Es sieht so aus, als hätten Sie keine Artikel in Ihren Warenkorb gelegt</span>`;
   if (cartDetails.length == 0) {
     document.getElementsByClassName("cart-items")[0].innerHTML = emptyCart;
   }
