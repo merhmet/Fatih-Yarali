@@ -1,0 +1,1416 @@
+Uri: https://cdn.trustindex.io/assets/fonts/opensans/cyrillic-ext.woff2
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\assets\fonts\opensans\cyrillic-ext.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.trustindex.io/assets/fonts/opensans/cyrillic-ext2.woff2
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\assets\fonts\opensans\cyrillic-ext2.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.trustindex.io/assets/fonts/opensans/cyrillic.woff2
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\assets\fonts\opensans\cyrillic.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.trustindex.io/assets/fonts/opensans/cyrillic2.woff2
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\assets\fonts\opensans\cyrillic2.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.trustindex.io/assets/fonts/opensans/greek-ext.woff2
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\assets\fonts\opensans\greek-ext.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.trustindex.io/assets/fonts/opensans/greek-ext2.woff2
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\assets\fonts\opensans\greek-ext2.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.trustindex.io/assets/fonts/opensans/greek.woff2
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\assets\fonts\opensans\greek.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.trustindex.io/assets/fonts/opensans/greek2.woff2
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\assets\fonts\opensans\greek2.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.trustindex.io/assets/fonts/opensans/latin-ext.woff2
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\assets\fonts\opensans\latin-ext.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.trustindex.io/assets/fonts/opensans/latin-ext2.woff2
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\assets\fonts\opensans\latin-ext2.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.trustindex.io/assets/fonts/opensans/latin.woff2
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\assets\fonts\opensans\latin.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.trustindex.io/assets/fonts/opensans/latin2.woff2
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\assets\fonts\opensans\latin2.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.trustindex.io/assets/fonts/opensans/vietnamese.woff2
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\assets\fonts\opensans\vietnamese.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.trustindex.io/assets/fonts/opensans/vietnamese2.woff2
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\assets\fonts\opensans\vietnamese2.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.trustindex.io/assets/platform/Google/icon.svg
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\assets\platform\Google\icon.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.trustindex.io/assets/platform/Google/star/e.svg
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\assets\platform\Google\star\e.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.trustindex.io/assets/platform/Google/star/f.svg
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\assets\platform\Google\star\f.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.trustindex.io/assets/platform/Google/star/h.svg
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\assets\platform\Google\star\h.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.trustindex.io/assets/platform/Trustindex/star/e.svg
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\assets\platform\Trustindex\star\e.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.trustindex.io/assets/platform/Trustindex/star/f.svg
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\assets\platform\Trustindex\star\f.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.trustindex.io/assets/platform/Trustindex/star/h.svg
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\assets\platform\Trustindex\star\h.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.trustindex.io/loader.js?ver=6.0.9
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\loader.js
+Content Type: text/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Droid+Serif:400%2C700&ver=6.0.9
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:300%2C400%2C600%2C700%2C800&ver=6.0.9
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Raleway:100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900&ver=6.0.9
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/barlowsemicondensed/v14/wlphgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXfbqmIEgKgZSORWs.woff
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\s\barlowsemicondensed\v14\wlphgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXfbqmIEgKgZSORWs.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/barlowsemicondensed/v14/wlphgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXfbqnIEgKgZSORWs.woff
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\s\barlowsemicondensed\v14\wlphgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXfbqnIEgKgZSORWs.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/barlowsemicondensed/v14/wlphgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXfbqoIEgKgZSO.woff
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\s\barlowsemicondensed\v14\wlphgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXfbqoIEgKgZSO.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/barlowsemicondensed/v14/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRfi6m_B2sjqZ6GfQ.woff
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\s\barlowsemicondensed\v14\wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRfi6m_B2sjqZ6GfQ.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/barlowsemicondensed/v14/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRfi6m_CGsjqZ6GfVK5.woff
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\s\barlowsemicondensed\v14\wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRfi6m_CGsjqZ6GfVK5.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/barlowsemicondensed/v14/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRfi6m_CWsjqZ6GfVK5.woff
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\s\barlowsemicondensed\v14\wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRfi6m_CWsjqZ6GfVK5.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/barlowsemicondensed/v14/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRfw6-_B2sjqZ6GfQ.woff
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\s\barlowsemicondensed\v14\wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRfw6-_B2sjqZ6GfQ.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/barlowsemicondensed/v14/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRfw6-_CGsjqZ6GfVK5.woff
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\s\barlowsemicondensed\v14\wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRfw6-_CGsjqZ6GfVK5.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/barlowsemicondensed/v14/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRfw6-_CWsjqZ6GfVK5.woff
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\s\barlowsemicondensed\v14\wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRfw6-_CWsjqZ6GfVK5.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/barlowsemicondensed/v14/wlpkgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXfbITBVsno5-kf2K4.woff
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\s\barlowsemicondensed\v14\wlpkgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXfbITBVsno5-kf2K4.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/barlowsemicondensed/v14/wlpkgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXfbITBVsoo5-kf2K4LYY.woff
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\s\barlowsemicondensed\v14\wlpkgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXfbITBVsoo5-kf2K4LYY.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/barlowsemicondensed/v14/wlpkgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXfbITBVspo5-kf2K4LYY.woff
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\s\barlowsemicondensed\v14\wlpkgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXfbITBVspo5-kf2K4LYY.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/barlowsemicondensed/v14/wlpkgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXfbJbA1sno5-kf2K4.woff
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\s\barlowsemicondensed\v14\wlpkgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXfbJbA1sno5-kf2K4.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/barlowsemicondensed/v14/wlpkgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXfbJbA1soo5-kf2K4LYY.woff
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\s\barlowsemicondensed\v14\wlpkgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXfbJbA1soo5-kf2K4LYY.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/barlowsemicondensed/v14/wlpkgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXfbJbA1spo5-kf2K4LYY.woff
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\s\barlowsemicondensed\v14\wlpkgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXfbJbA1spo5-kf2K4LYY.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/barlowsemicondensed/v14/wlpvgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXd4qsKkkog6SP.woff
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\s\barlowsemicondensed\v14\wlpvgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXd4qsKkkog6SP.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/barlowsemicondensed/v14/wlpvgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXdoqsKkkog6SP.woff
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\s\barlowsemicondensed\v14\wlpvgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXdoqsKkkog6SP.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/barlowsemicondensed/v14/wlpvgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXeIqsKkkogw.woff
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\s\barlowsemicondensed\v14\wlpvgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXeIqsKkkogw.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/droidserif/v19/tDbI2oqRg1oM3QBjjcaDkOr9rAA.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\s\droidserif\v19\tDbI2oqRg1oM3QBjjcaDkOr9rAA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/droidserif/v19/tDbV2oqRg1oM3QBjjcaDkOJGiRD7OwQ.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\s\droidserif\v19\tDbV2oqRg1oM3QBjjcaDkOJGiRD7OwQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCIPrQ.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\s\raleway\v34\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpbCIPrQ.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\s\raleway\v34\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtaorCIPrQ.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\s\raleway\v34\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtaorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtapbCIPrQ.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\s\raleway\v34\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtapbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtzpbCIPrQ.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\s\raleway\v34\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtzpbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEorCIPrQ.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\s\raleway\v34\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvao7CIPrQ.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\s\raleway\v34\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvao7CIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\s\raleway\v34\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoorCIPrQ.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\s\raleway\v34\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://repair-point.be/
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\index.htm
+Content Type: text/html
+
+Uri: https://repair-point.be/afspraak-maken/
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\afspraak-maken\index.htm
+Content Type: text/html
+
+Uri: https://repair-point.be/algemene-voorwaarden/
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\algemene-voorwaarden\index.htm
+Content Type: text/html
+
+Uri: https://repair-point.be/author/repair-admin/
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\author\repair-admin\index.htm
+Content Type: text/html
+
+Uri: https://repair-point.be/author/repair-admin/feed/
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\author\repair-admin\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://repair-point.be/author/wordpress/
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\author\wordpress\index.htm
+Content Type: text/html
+
+Uri: https://repair-point.be/author/wordpress/feed/
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\author\wordpress\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://repair-point.be/betalen
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\betalen.html
+Content Type: text/html
+
+Uri: https://repair-point.be/betalen/
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\betalen\index.htm
+Content Type: text/html
+
+Uri: https://repair-point.be/comments/feed/
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://repair-point.be/computer/
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\computer\index.htm
+Content Type: text/html
+
+Uri: https://repair-point.be/contact
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\contact.html
+Content Type: text/html
+
+Uri: https://repair-point.be/contact/
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\contact\index.htm
+Content Type: text/html
+
+Uri: https://repair-point.be/feed/
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://repair-point.be/over-ons/
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\over-ons\index.htm
+Content Type: text/html
+
+Uri: https://repair-point.be/smartphone
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\smartphone.html
+Content Type: text/html
+
+Uri: https://repair-point.be/smartphone/
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\smartphone\index.htm
+Content Type: text/html
+
+Uri: https://repair-point.be/smartphone/apple-smartphone-reparaties/
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\smartphone\apple-smartphone-reparaties\index.htm
+Content Type: text/html
+
+Uri: https://repair-point.be/smartphone/apple-smartphone-reparaties/iphone-se-2020/
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\smartphone\apple-smartphone-reparaties\iphone-se-2020\index.htm
+Content Type: text/html
+
+Uri: https://repair-point.be/tablet/
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\tablet\index.htm
+Content Type: text/html
+
+Uri: https://repair-point.be/toestellen/
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\toestellen\index.htm
+Content Type: text/html
+
+Uri: https://repair-point.be/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.5.6.1
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://repair-point.be/wp-content/plugins/essential-grid/public/assets/css/settings.css?ver=2.0.9
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\essential-grid\public\assets\css\settings.css
+Content Type: text/css
+
+Uri: https://repair-point.be/wp-content/plugins/essential-grid/public/assets/font/egfont.eot?85610117
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\essential-grid\public\assets\font\egfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://repair-point.be/wp-content/plugins/essential-grid/public/assets/font/egfont.svg?85610117
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\essential-grid\public\assets\font\egfont.svg
+Content Type: image/svg+xml
+
+Uri: https://repair-point.be/wp-content/plugins/essential-grid/public/assets/font/egfont.ttf?85610117
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\essential-grid\public\assets\font\egfont.ttf
+Content Type: application/font-sfnt
+
+Uri: https://repair-point.be/wp-content/plugins/essential-grid/public/assets/font/egfont.woff?85610117
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\essential-grid\public\assets\font\egfont.woff
+Content Type: application/font-woff
+
+Uri: https://repair-point.be/wp-content/plugins/essential-grid/public/assets/images/ajax-loader.gif
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\essential-grid\public\assets\images\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://repair-point.be/wp-content/plugins/essential-grid/public/assets/images/loader.gif
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\essential-grid\public\assets\images\loader.gif
+Content Type: image/gif
+
+Uri: https://repair-point.be/wp-content/plugins/essential-grid/public/assets/js/jquery.themepunch.essential.min.js?ver=2.0.9
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\essential-grid\public\assets\js\jquery.themepunch.essential.min.js
+Content Type: application/javascript
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/closedhand.cur
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\closedhand.cur
+Content Type: application/octet-stream
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/alert.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\dark-skin\alert.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/arrow-next-icon-64.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\dark-skin\arrow-next-icon-64.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/arrow-next-vertical-icon-64.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\dark-skin\arrow-next-vertical-icon-64.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/arrow-prev-icon-64.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\dark-skin\arrow-prev-icon-64.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/arrow-prev-vertical-icon-64.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\dark-skin\arrow-prev-vertical-icon-64.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/buttons.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\dark-skin\buttons.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/caption-bg.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\dark-skin\caption-bg.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/fullscreen-icon-64.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\dark-skin\fullscreen-icon-64.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/pause-icon-64.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\dark-skin\pause-icon-64.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/play-icon-64.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\dark-skin\play-icon-64.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/preloader.gif
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\dark-skin\preloader.gif
+Content Type: image/gif
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/thumb-overlay-play.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\dark-skin\thumb-overlay-play.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/x-mark-icon-64.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\dark-skin\x-mark-icon-64.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/alert.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\light-skin\alert.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/arrow-next-icon-64.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\light-skin\arrow-next-icon-64.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/arrow-next-vertical-icon-64.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\light-skin\arrow-next-vertical-icon-64.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/arrow-prev-icon-64.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\light-skin\arrow-prev-icon-64.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/arrow-prev-vertical-icon-64.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\light-skin\arrow-prev-vertical-icon-64.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/buttons.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\light-skin\buttons.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/caption-bg.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\light-skin\caption-bg.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/fullscreen-icon-64.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\light-skin\fullscreen-icon-64.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/pause-icon-64.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\light-skin\pause-icon-64.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/play-icon-64.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\light-skin\play-icon-64.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/preloader.gif
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\light-skin\preloader.gif
+Content Type: image/gif
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/thumb-overlay-play.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\light-skin\thumb-overlay-play.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/x-mark-icon-64.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\light-skin\x-mark-icon-64.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/alert.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\mac-skin\alert.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/back-50.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\mac-skin\back-50.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/back-vertical-50.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\mac-skin\back-vertical-50.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/caption-bg.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\mac-skin\caption-bg.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/close-25.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\mac-skin\close-25.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/close-50.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\mac-skin\close-50.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/forward-50.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\mac-skin\forward-50.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/forward-vertical-50.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\mac-skin\forward-vertical-50.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/pause-25.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\mac-skin\pause-25.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/pause-50.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\mac-skin\pause-50.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/play-25.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\mac-skin\play-25.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/play-50.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\mac-skin\play-50.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/preloader.gif
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\mac-skin\preloader.gif
+Content Type: image/gif
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/resize-25.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\mac-skin\resize-25.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/resize-50.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\mac-skin\resize-50.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/thumb-overlay-play.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\mac-skin\thumb-overlay-play.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/alert.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-black-skin\alert.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/arrow-next-icon-64.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-black-skin\arrow-next-icon-64.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/arrow-prev-icon-64.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-black-skin\arrow-prev-icon-64.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/arrows_horizontal.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-black-skin\arrows_horizontal.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/arrows_vertical.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-black-skin\arrows_vertical.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/buttons.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-black-skin\buttons.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/caption-bg.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-black-skin\caption-bg.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/fullscreen-icon-64.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-black-skin\fullscreen-icon-64.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/pause-icon-64.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-black-skin\pause-icon-64.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/play-icon-64.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-black-skin\play-icon-64.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/preloader.gif
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-black-skin\preloader.gif
+Content Type: image/gif
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/social-bg.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-black-skin\social-bg.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/thumb-overlay-play.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-black-skin\thumb-overlay-play.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/x-mark-icon-64.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-black-skin\x-mark-icon-64.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/alert.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\alert.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/arrow-next-hover-icon-64.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\arrow-next-hover-icon-64.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/arrow-next-icon-64.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\arrow-next-icon-64.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/arrow-prev-hover-icon-64.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\arrow-prev-hover-icon-64.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/arrow-prev-icon-64.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\arrow-prev-icon-64.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/arrows_horizontal.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\arrows_horizontal.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/arrows_vertical.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\arrows_vertical.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/buttons.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\buttons.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/caption-bg.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\caption-bg.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/fullscreen-hover-icon-64.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\fullscreen-hover-icon-64.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/fullscreen-icon-64.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\fullscreen-icon-64.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/pause-hover-icon-64.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\pause-hover-icon-64.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/pause-icon-64.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\pause-icon-64.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/play-hover-icon-64.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\play-hover-icon-64.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/play-icon-64.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\play-icon-64.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/preloader.gif
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\preloader.gif
+Content Type: image/gif
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/social-bg.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\social-bg.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/thumb-overlay-play.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\thumb-overlay-play.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/x-mark-hover-icon-64.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\x-mark-hover-icon-64.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/x-mark-icon-64.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\x-mark-icon-64.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/parade-skin/alert.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\parade-skin\alert.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/parade-skin/buttons.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\parade-skin\buttons.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/parade-skin/caption-bg.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\parade-skin\caption-bg.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/parade-skin/pattern.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\parade-skin\pattern.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/parade-skin/preloader.gif
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\parade-skin\preloader.gif
+Content Type: image/gif
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/parade-skin/thumb-overlay-play.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\parade-skin\thumb-overlay-play.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/alert.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\smooth-skin\alert.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/arrow-next-icon-64.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\smooth-skin\arrow-next-icon-64.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/arrow-prev-icon-64.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\smooth-skin\arrow-prev-icon-64.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/arrows_horizontal.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\smooth-skin\arrows_horizontal.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/arrows_vertical.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\smooth-skin\arrows_vertical.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/buttons.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\smooth-skin\buttons.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/caption-bg.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\smooth-skin\caption-bg.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/fullscreen-icon-64.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\smooth-skin\fullscreen-icon-64.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/pause-icon-64.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\smooth-skin\pause-icon-64.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/play-icon-64.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\smooth-skin\play-icon-64.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/preloader.gif
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\smooth-skin\preloader.gif
+Content Type: image/gif
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/thumb-overlay-play.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\smooth-skin\thumb-overlay-play.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/x-mark-icon-64.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\smooth-skin\x-mark-icon-64.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/social_icons/delicious_16.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\social_icons\delicious_16.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/social_icons/digg_16.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\social_icons\digg_16.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/social_icons/facebook_16.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\social_icons\facebook_16.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/social_icons/google_plus_16.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\social_icons\google_plus_16.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/social_icons/reddit_16.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\social_icons\reddit_16.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/iLightbox/social_icons/twitter_16.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\iLightbox\social_icons\twitter_16.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/fusion-builder/assets/images/mejs-controls-dark.svg
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\fusion-builder\assets\images\mejs-controls-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://repair-point.be/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js?ver=6.2.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\js_composer\assets\js\vendors\woocommerce-add-to-cart.js
+Content Type: application/javascript
+
+Uri: https://repair-point.be/wp-content/plugins/LayerSlider/assets/static/layerslider/css/layerslider.css?ver=6.11.2
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\LayerSlider\assets\static\layerslider\css\layerslider.css
+Content Type: text/css
+
+Uri: https://repair-point.be/wp-content/plugins/LayerSlider/assets/static/layerslider/img/icon-muted-white.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\LayerSlider\assets\static\layerslider\img\icon-muted-white.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/LayerSlider/assets/static/layerslider/img/icon-unmuted-white.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\LayerSlider\assets\static\layerslider\img\icon-unmuted-white.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.kreaturamedia.jquery.js?ver=6.11.2
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\LayerSlider\assets\static\layerslider\js\layerslider.kreaturamedia.jquery.js
+Content Type: application/javascript
+
+Uri: https://repair-point.be/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.transitions.js?ver=6.11.2
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\LayerSlider\assets\static\layerslider\js\layerslider.transitions.js
+Content Type: application/javascript
+
+Uri: https://repair-point.be/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.utils.js?ver=6.11.2
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\LayerSlider\assets\static\layerslider\js\layerslider.utils.js
+Content Type: application/javascript
+
+Uri: https://repair-point.be/wp-content/plugins/revslider-new/public/assets/assets/coloredbg.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\revslider-new\public\assets\assets\coloredbg.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/revslider-new/public/assets/assets/gridtile.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\revslider-new\public\assets\assets\gridtile.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/revslider-new/public/assets/assets/gridtile_3x3.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\revslider-new\public\assets\assets\gridtile_3x3.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/revslider-new/public/assets/assets/gridtile_3x3_white.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\revslider-new\public\assets\assets\gridtile_3x3_white.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/revslider-new/public/assets/assets/gridtile_white.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\revslider-new\public\assets\assets\gridtile_white.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/plugins/revslider-new/public/assets/assets/loader.gif
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\revslider-new\public\assets\assets\loader.gif
+Content Type: image/gif
+
+Uri: https://repair-point.be/wp-content/plugins/revslider-new/public/assets/css/closedhand.cur
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\revslider-new\public\assets\css\closedhand.cur
+Content Type: application/octet-stream
+
+Uri: https://repair-point.be/wp-content/plugins/revslider-new/public/assets/css/openhand.cur
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\revslider-new\public\assets\css\openhand.cur
+Content Type: application/octet-stream
+
+Uri: https://repair-point.be/wp-content/plugins/revslider-new/public/assets/css/rs6.css?ver=6.2.9
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\revslider-new\public\assets\css\rs6.css
+Content Type: text/css
+
+Uri: https://repair-point.be/wp-content/plugins/revslider-new/public/assets/fonts/revicons/revicons.eot?5510888
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\revslider-new\public\assets\fonts\revicons\revicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://repair-point.be/wp-content/plugins/revslider-new/public/assets/fonts/revicons/revicons.svg?5510888
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\revslider-new\public\assets\fonts\revicons\revicons.svg
+Content Type: image/svg+xml
+
+Uri: https://repair-point.be/wp-content/plugins/revslider-new/public/assets/fonts/revicons/revicons.ttf?5510888
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\revslider-new\public\assets\fonts\revicons\revicons.ttf
+Content Type: application/font-sfnt
+
+Uri: https://repair-point.be/wp-content/plugins/revslider-new/public/assets/fonts/revicons/revicons.woff?5510888
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\revslider-new\public\assets\fonts\revicons\revicons.woff
+Content Type: application/font-woff
+
+Uri: https://repair-point.be/wp-content/plugins/revslider-new/public/assets/js/rbtools.min.js?ver=6.0.5
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\revslider-new\public\assets\js\rbtools.min.js
+Content Type: application/javascript
+
+Uri: https://repair-point.be/wp-content/plugins/revslider-new/public/assets/js/rs6.min.js?ver=6.2.9
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\revslider-new\public\assets\js\rs6.min.js
+Content Type: application/javascript
+
+Uri: https://repair-point.be/wp-content/plugins/woocommerce-product-search/css/price-slider.min.css?ver=4.1.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\woocommerce-product-search\css\price-slider.min.css
+Content Type: text/css
+
+Uri: https://repair-point.be/wp-content/plugins/woocommerce-product-search/css/product-search.min.css?ver=4.1.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\woocommerce-product-search\css\product-search.min.css
+Content Type: text/css
+
+Uri: https://repair-point.be/wp-content/plugins/woocommerce-product-search/css/selectize/selectize.min.css?ver=4.1.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\woocommerce-product-search\css\selectize\selectize.min.css
+Content Type: text/css
+
+Uri: https://repair-point.be/wp-content/plugins/woocommerce-product-search/fonts/fa-regular-400.eot
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\woocommerce-product-search\fonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://repair-point.be/wp-content/plugins/woocommerce-product-search/fonts/fa-regular-400.eot?
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\woocommerce-product-search\fonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://repair-point.be/wp-content/plugins/woocommerce-product-search/fonts/fa-regular-400.svg
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\woocommerce-product-search\fonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://repair-point.be/wp-content/plugins/woocommerce-product-search/fonts/fa-regular-400.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\woocommerce-product-search\fonts\fa-regular-400.ttf
+Content Type: application/font-sfnt
+
+Uri: https://repair-point.be/wp-content/plugins/woocommerce-product-search/fonts/fa-regular-400.woff
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\woocommerce-product-search\fonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://repair-point.be/wp-content/plugins/woocommerce-product-search/fonts/fa-regular-400.woff2
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\woocommerce-product-search\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://repair-point.be/wp-content/plugins/woocommerce-product-search/fonts/fa-solid-900.eot
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\woocommerce-product-search\fonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://repair-point.be/wp-content/plugins/woocommerce-product-search/fonts/fa-solid-900.eot?
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\woocommerce-product-search\fonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://repair-point.be/wp-content/plugins/woocommerce-product-search/fonts/fa-solid-900.svg
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\woocommerce-product-search\fonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://repair-point.be/wp-content/plugins/woocommerce-product-search/fonts/fa-solid-900.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\woocommerce-product-search\fonts\fa-solid-900.ttf
+Content Type: application/font-sfnt
+
+Uri: https://repair-point.be/wp-content/plugins/woocommerce-product-search/fonts/fa-solid-900.woff
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\woocommerce-product-search\fonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://repair-point.be/wp-content/plugins/woocommerce-product-search/fonts/fa-solid-900.woff2
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\woocommerce-product-search\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://repair-point.be/wp-content/plugins/woocommerce-product-search/images/blinker-256x256.gif
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\woocommerce-product-search\images\blinker-256x256.gif
+Content Type: image/gif
+
+Uri: https://repair-point.be/wp-content/plugins/woocommerce-product-search/images/blinker.gif
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\woocommerce-product-search\images\blinker.gif
+Content Type: image/gif
+
+Uri: https://repair-point.be/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=6.9.1
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min.js
+Content Type: application/javascript
+
+Uri: https://repair-point.be/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=6.9.1
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\woocommerce\assets\js\frontend\cart-fragments.min.js
+Content Type: application/javascript
+
+Uri: https://repair-point.be/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=6.9.1
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: application/javascript
+
+Uri: https://repair-point.be/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.6.9.1
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: application/javascript
+
+Uri: https://repair-point.be/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.6.9.1
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min.js
+Content Type: application/javascript
+
+Uri: https://repair-point.be/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=8.3.2
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-style.css
+Content Type: text/css
+
+Uri: https://repair-point.be/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=8.3.2
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-vendors-style.css
+Content Type: text/css
+
+Uri: https://repair-point.be/wp-content/themes/Avada/assets/css/style.min.css?ver=7.0.2
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\themes\Avada\assets\css\style.min.css
+Content Type: text/css
+
+Uri: https://repair-point.be/wp-content/themes/Avada/assets/images/patterns/pattern1.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\themes\Avada\assets\images\patterns\pattern1.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/themes/Avada/assets/images/shadow-bottom.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\themes\Avada\assets\images\shadow-bottom.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/themes/Avada/assets/images/shadow-top.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\themes\Avada\assets\images\shadow-top.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-brands-400.eot
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://repair-point.be/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-brands-400.eot?
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://repair-point.be/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-brands-400.svg
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://repair-point.be/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-brands-400.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\webfonts\fa-brands-400.ttf
+Content Type: application/font-sfnt
+
+Uri: https://repair-point.be/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-brands-400.woff
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://repair-point.be/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-brands-400.woff2
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://repair-point.be/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-regular-400.eot
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://repair-point.be/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-regular-400.eot?
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://repair-point.be/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-regular-400.svg
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://repair-point.be/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-regular-400.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\webfonts\fa-regular-400.ttf
+Content Type: application/font-sfnt
+
+Uri: https://repair-point.be/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-regular-400.woff
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://repair-point.be/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-regular-400.woff2
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://repair-point.be/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-solid-900.eot
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://repair-point.be/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-solid-900.eot?
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://repair-point.be/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-solid-900.svg
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://repair-point.be/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-solid-900.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\webfonts\fa-solid-900.ttf
+Content Type: application/font-sfnt
+
+Uri: https://repair-point.be/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-solid-900.woff
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://repair-point.be/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-solid-900.woff2
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://repair-point.be/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon/icomoon.eot
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\themes\Avada\includes\lib\assets\fonts\icomoon\icomoon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://repair-point.be/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon/icomoon.eot?
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\themes\Avada\includes\lib\assets\fonts\icomoon\icomoon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://repair-point.be/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon/icomoon.svg
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\themes\Avada\includes\lib\assets\fonts\icomoon\icomoon.svg
+Content Type: image/svg+xml
+
+Uri: https://repair-point.be/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon/icomoon.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\themes\Avada\includes\lib\assets\fonts\icomoon\icomoon.ttf
+Content Type: application/font-sfnt
+
+Uri: https://repair-point.be/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon/icomoon.woff
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\themes\Avada\includes\lib\assets\fonts\icomoon\icomoon.woff
+Content Type: application/font-woff
+
+Uri: https://repair-point.be/wp-content/uploads/2020/07/Asset-1-200x42.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\uploads\2020\07\Asset-1-200x42.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/uploads/2020/07/Asset-1-300x63.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\uploads\2020\07\Asset-1-300x63.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/uploads/2020/07/Asset-1-400x84.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\uploads\2020\07\Asset-1-400x84.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/uploads/2020/07/Asset-1-500x106.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\uploads\2020\07\Asset-1-500x106.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/uploads/2020/07/Asset-1-600x127.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\uploads\2020\07\Asset-1-600x127.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/uploads/2020/07/Asset-1-700x148.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\uploads\2020\07\Asset-1-700x148.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/uploads/2020/07/Asset-1.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\uploads\2020\07\Asset-1.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/uploads/2020/07/gray-wall-scaled.jpg
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\uploads\2020\07\gray-wall-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://repair-point.be/wp-content/uploads/2021/01/Verzendfiche.docx
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\uploads\2021\01\Verzendfiche.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://repair-point.be/wp-content/uploads/2021/08/apple-reparaties.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\uploads\2021\08\apple-reparaties.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/uploads/2021/08/contactgegevens.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\uploads\2021\08\contactgegevens.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/uploads/2021/08/google-reparaties.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\uploads\2021\08\google-reparaties.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/uploads/2021/08/huawei-reparaties.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\uploads\2021\08\huawei-reparaties.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/uploads/2021/08/nokia-reparaties.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\uploads\2021\08\nokia-reparaties.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/uploads/2021/08/oneplus-reparaties.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\uploads\2021\08\oneplus-reparaties.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/uploads/2021/08/oppo-reparaties.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\uploads\2021\08\oppo-reparaties.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/uploads/2021/08/samsung-reparaties.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\uploads\2021\08\samsung-reparaties.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/uploads/2021/08/se20-203x300-1.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\uploads\2021\08\se20-203x300-1.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/uploads/2021/08/xiaomi-reparaties.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\uploads\2021\08\xiaomi-reparaties.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/uploads/2021/10/iphone-andere-website.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\uploads\2021\10\iphone-andere-website.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/uploads/2021/10/iphones-website-1.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\uploads\2021\10\iphones-website-1.png
+Content Type: image/png
+
+Uri: https://repair-point.be/wp-content/uploads/fusion-icons/Avada-Fitness-v2.0/fonts/Avada-Fitness.svg?ewc5vy
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\uploads\fusion-icons\Avada-Fitness-v2.0\fonts\Avada-Fitness.svg
+Content Type: image/svg+xml
+
+Uri: https://repair-point.be/wp-content/uploads/fusion-icons/Avada-Fitness-v2.0/fonts/Avada-Fitness.ttf?ewc5vy
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\uploads\fusion-icons\Avada-Fitness-v2.0\fonts\Avada-Fitness.ttf
+Content Type: application/font-sfnt
+
+Uri: https://repair-point.be/wp-content/uploads/fusion-icons/Avada-Fitness-v2.0/fonts/Avada-Fitness.woff?ewc5vy
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\uploads\fusion-icons\Avada-Fitness-v2.0\fonts\Avada-Fitness.woff
+Content Type: application/font-woff
+
+Uri: https://repair-point.be/wp-content/uploads/fusion-icons/Avada-Fitness-v2.0/style.css?ver=3.0.2
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\uploads\fusion-icons\Avada-Fitness-v2.0\style.css
+Content Type: text/css
+
+Uri: https://repair-point.be/wp-content/uploads/fusion-scripts/15ce34fd0b969072069704d93dacb0a5.min.js?ver=3.0.2
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\uploads\fusion-scripts\15ce34fd0b969072069704d93dacb0a5.min.js
+Content Type: application/javascript
+
+Uri: https://repair-point.be/wp-content/uploads/fusion-scripts/65422fd03ebbf5bc55390d286e2a9782.min.js?ver=3.0.2
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\uploads\fusion-scripts\65422fd03ebbf5bc55390d286e2a9782.min.js
+Content Type: application/javascript
+
+Uri: https://repair-point.be/wp-content/uploads/fusion-scripts/b6769b0619542fb7b63ca057fca2f06b.min.js?ver=3.0.2
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\uploads\fusion-scripts\b6769b0619542fb7b63ca057fca2f06b.min.js
+Content Type: application/javascript
+
+Uri: https://repair-point.be/wp-content/uploads/fusion-styles/273e981a571f81f6b7921f1ca80612e2.min.css?ver=3.0.2
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\uploads\fusion-styles\273e981a571f81f6b7921f1ca80612e2.min.css
+Content Type: text/css
+
+Uri: https://repair-point.be/wp-content/uploads/fusion-styles/3e9ba090a591555fc6d8c593da0ade7c.min.css?ver=3.0.2
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\uploads\fusion-styles\3e9ba090a591555fc6d8c593da0ade7c.min.css
+Content Type: text/css
+
+Uri: https://repair-point.be/wp-content/uploads/fusion-styles/49742f60619641246dc87524e90dcf17.min.css?ver=3.0.2
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\uploads\fusion-styles\49742f60619641246dc87524e90dcf17.min.css
+Content Type: text/css
+
+Uri: https://repair-point.be/wp-content/uploads/fusion-styles/87f2cda86099bc99e7d58d8f1d406c47.min.css?ver=3.0.2
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\uploads\fusion-styles\87f2cda86099bc99e7d58d8f1d406c47.min.css
+Content Type: text/css
+
+Uri: https://repair-point.be/wp-content/uploads/fusion-styles/f7ba301378e3e688a5ccf7a1e22bad3c.min.css?ver=3.0.2
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\uploads\fusion-styles\f7ba301378e3e688a5ccf7a1e22bad3c.min.css
+Content Type: text/css
+
+Uri: https://repair-point.be/wp-content/uploads/trustindex-google-widget.css?ver=1663591238
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-content\uploads\trustindex-google-widget.css
+Content Type: text/css
+
+Uri: https://repair-point.be/wp-includes/css/dist/block-library/style.min.css?ver=6.0.9
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://repair-point.be/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://repair-point.be/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://repair-point.be/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://repair-point.be/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://repair-point.be/wp-includes/wlwmanifest.xml
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-includes\wlwmanifest.xml
+Content Type: text/xml
+
+Uri: https://repair-point.be/wp-json/
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://repair-point.be/wp-json/oembed/1.0/embed?url=https:%2F%2Frepair-point.be%2F
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://repair-point.be/wp-json/oembed/1.0/embed?url=https:%2F%2Frepair-point.be%2F&format=xml
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://repair-point.be/wp-json/oembed/1.0/embed?url=https:%2F%2Frepair-point.be%2Fafspraak-maken%2F
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://repair-point.be/wp-json/oembed/1.0/embed?url=https:%2F%2Frepair-point.be%2Fafspraak-maken%2F&format=xml
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://repair-point.be/wp-json/oembed/1.0/embed?url=https:%2F%2Frepair-point.be%2Falgemene-voorwaarden%2F
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://repair-point.be/wp-json/oembed/1.0/embed?url=https:%2F%2Frepair-point.be%2Falgemene-voorwaarden%2F&format=xml
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://repair-point.be/wp-json/oembed/1.0/embed?url=https:%2F%2Frepair-point.be%2Fbetalen%2F
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://repair-point.be/wp-json/oembed/1.0/embed?url=https:%2F%2Frepair-point.be%2Fbetalen%2F&format=xml
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://repair-point.be/wp-json/oembed/1.0/embed?url=https:%2F%2Frepair-point.be%2Fcomputer%2F
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://repair-point.be/wp-json/oembed/1.0/embed?url=https:%2F%2Frepair-point.be%2Fcomputer%2F&format=xml
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://repair-point.be/wp-json/oembed/1.0/embed?url=https:%2F%2Frepair-point.be%2Fcontact%2F
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://repair-point.be/wp-json/oembed/1.0/embed?url=https:%2F%2Frepair-point.be%2Fcontact%2F&format=xml
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://repair-point.be/wp-json/oembed/1.0/embed?url=https:%2F%2Frepair-point.be%2Fover-ons%2F
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://repair-point.be/wp-json/oembed/1.0/embed?url=https:%2F%2Frepair-point.be%2Fover-ons%2F&format=xml
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://repair-point.be/wp-json/oembed/1.0/embed?url=https:%2F%2Frepair-point.be%2Fsmartphone%2F
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://repair-point.be/wp-json/oembed/1.0/embed?url=https:%2F%2Frepair-point.be%2Fsmartphone%2F&format=xml
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://repair-point.be/wp-json/oembed/1.0/embed?url=https:%2F%2Frepair-point.be%2Fsmartphone%2Fapple-smartphone-reparaties%2F
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://repair-point.be/wp-json/oembed/1.0/embed?url=https:%2F%2Frepair-point.be%2Fsmartphone%2Fapple-smartphone-reparaties%2F&format=xml
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://repair-point.be/wp-json/oembed/1.0/embed?url=https:%2F%2Frepair-point.be%2Fsmartphone%2Fapple-smartphone-reparaties%2Fiphone-se-2020%2F
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://repair-point.be/wp-json/oembed/1.0/embed?url=https:%2F%2Frepair-point.be%2Fsmartphone%2Fapple-smartphone-reparaties%2Fiphone-se-2020%2F&format=xml
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://repair-point.be/wp-json/oembed/1.0/embed?url=https:%2F%2Frepair-point.be%2Ftablet%2F
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://repair-point.be/wp-json/oembed/1.0/embed?url=https:%2F%2Frepair-point.be%2Ftablet%2F&format=xml
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://repair-point.be/wp-json/oembed/1.0/embed?url=https:%2F%2Frepair-point.be%2Ftoestellen%2F
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://repair-point.be/wp-json/oembed/1.0/embed?url=https:%2F%2Frepair-point.be%2Ftoestellen%2F&format=xml
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://repair-point.be/wp-json/oembed/1.0/embed?url=https:%2F%2Frepair-point.be%2Fzakelijk%2F
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://repair-point.be/wp-json/oembed/1.0/embed?url=https:%2F%2Frepair-point.be%2Fzakelijk%2F&format=xml
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://repair-point.be/wp-json/wp/v2/pages/4
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-json\wp\v2\pages\4
+Content Type: application/json
+
+Uri: https://repair-point.be/wp-json/wp/v2/pages/4186
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-json\wp\v2\pages\4186
+Content Type: application/json
+
+Uri: https://repair-point.be/wp-json/wp/v2/pages/4196
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-json\wp\v2\pages\4196
+Content Type: application/json
+
+Uri: https://repair-point.be/wp-json/wp/v2/pages/4201
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-json\wp\v2\pages\4201
+Content Type: application/json
+
+Uri: https://repair-point.be/wp-json/wp/v2/pages/4207
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-json\wp\v2\pages\4207
+Content Type: application/json
+
+Uri: https://repair-point.be/wp-json/wp/v2/pages/4218
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-json\wp\v2\pages\4218
+Content Type: application/json
+
+Uri: https://repair-point.be/wp-json/wp/v2/pages/4222
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-json\wp\v2\pages\4222
+Content Type: application/json
+
+Uri: https://repair-point.be/wp-json/wp/v2/pages/4226
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-json\wp\v2\pages\4226
+Content Type: application/json
+
+Uri: https://repair-point.be/wp-json/wp/v2/pages/4240
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-json\wp\v2\pages\4240
+Content Type: application/json
+
+Uri: https://repair-point.be/wp-json/wp/v2/pages/4243
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-json\wp\v2\pages\4243
+Content Type: application/json
+
+Uri: https://repair-point.be/wp-json/wp/v2/pages/4291
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-json\wp\v2\pages\4291
+Content Type: application/json
+
+Uri: https://repair-point.be/wp-json/wp/v2/pages/4318
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-json\wp\v2\pages\4318
+Content Type: application/json
+
+Uri: https://repair-point.be/wp-json/wp/v2/pages/4378
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-json\wp\v2\pages\4378
+Content Type: application/json
+
+Uri: https://repair-point.be/wp-json/wp/v2/users/1
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-json\wp\v2\users\1
+Content Type: application/json
+
+Uri: https://repair-point.be/wp-json/wp/v2/users/2
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-json\wp\v2\users\2
+Content Type: application/json
+
+Uri: https://repair-point.be/wp-json/wp/v2/web-app-manifest
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\wp-json\wp\v2\web-app-manifest
+Content Type: application/manifest+json
+
+Uri: https://repair-point.be/zakelijk
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\zakelijk.html
+Content Type: text/html
+
+Uri: https://repair-point.be/zakelijk/
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\zakelijk\index.htm
+Content Type: text/html
+
+Uri: https://secure.gravatar.com/avatar/9645017864b0998bb143fcac83e7cad1?s=164&d=mm&r=g
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\avatar\9645017864b0998bb143fcac83e7cad1-1.png
+Content Type: image/jpeg
+
+Uri: https://secure.gravatar.com/avatar/9645017864b0998bb143fcac83e7cad1?s=82&d=mm&r=g
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\avatar\9645017864b0998bb143fcac83e7cad1.png
+Content Type: image/jpeg
+
+Uri: https://secure.gravatar.com/avatar/985dbda1da2141301b9e6a659de1aad0?s=164&d=mm&r=g
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\avatar\985dbda1da2141301b9e6a659de1aad0-1.png
+Content Type: image/jpeg
+
+Uri: https://secure.gravatar.com/avatar/985dbda1da2141301b9e6a659de1aad0?s=82&d=mm&r=g
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (145)\repair-point.be\avatar\985dbda1da2141301b9e6a659de1aad0.png
+Content Type: image/jpeg
+
