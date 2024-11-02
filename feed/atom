@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:g-custom="http://base.google.com/cns/1.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <title>Leuke updates van de "Tech" wereld</title>
+  <link rel="alternate" href="https://www.phonerepairshop.be" />
+  <subtitle>Updates en weetjes over nieuwe toestellen, onze best verkochte toestellen, leuke accessoires en goodies, ...</subtitle>
+  <logo>https://irp-cdn.multiscreensite.com/771ed2de/dms3rep/multi/10271506_316326061882348_6613238177666427350_n-2.jpg</logo>
+  <entry>
+    <title>Phone repair shop 2.0</title>
+    <link rel="alternate" href="https://www.phonerepairshop.be/phone-repair-shop-2-0" />
+    <link rel="enclosure" type="image/jpeg" href="https://irp-cdn.multiscreensite.com/771ed2de/dms3rep/multi/10271506_316326061882348_6613238177666427350_n-2.jpg" length="68680" />
+    <author>
+      <name />
+    </author>
+    <updated>2018-03-14T17:41:06Z</updated>
+    <published>2018-03-14T17:41:06Z</published>
+    <summary type="text" />
+    <g-custom:tags type="string" />
+    <media:content medium="image" url="https://irp-cdn.multiscreensite.com/771ed2de/dms3rep/multi/10271506_316326061882348_6613238177666427350_n-2.jpg" />
+  </entry>
+  <entry>
+    <title>Review Samsung S9 en S9+</title>
+    <link rel="alternate" href="https://www.phonerepairshop.be/samsung-s9-en-s9-" />
+    <link rel="enclosure" type="image/jpeg" href="https://irp-cdn.multiscreensite.com/771ed2de/dms3rep/multi/samsung-galaxy-s9-2.jpg" length="49065" />
+    <author>
+      <name />
+    </author>
+    <updated>2018-03-14T16:23:57Z</updated>
+    <published>2018-03-14T16:23:57Z</published>
+    <summary type="text">Onze review over de nieuwe en revolutionaire Samsung S9 en S9+</summary>
+    <g-custom:tags type="string" />
+    <media:content medium="image" url="https://irp-cdn.multiscreensite.com/771ed2de/dms3rep/multi/samsung-galaxy-s9-2.jpg" />
+  </entry>
+  <entry>
+    <title>Review: Apple iPhone X</title>
+    <link rel="alternate" href="https://www.phonerepairshop.be/apple-iphone-x" />
+    <link rel="enclosure" type="image/jpeg" href="https://irp-cdn.multiscreensite.com/771ed2de/dms3rep/multi/iphonexlockscreen-1-800x523.jpg" length="25069" />
+    <author>
+      <name />
+    </author>
+    <updated>2018-03-14T16:23:55Z</updated>
+    <published>2018-03-14T16:23:55Z</published>
+    <summary type="text">Onze review over de nieuwe iPhone X.</summary>
+    <g-custom:tags type="string" />
+    <media:content medium="image" url="https://irp-cdn.multiscreensite.com/771ed2de/dms3rep/multi/iphonexlockscreen-1-800x523.jpg" />
+  </entry>
+</feed>
