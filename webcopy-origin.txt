@@ -1,0 +1,1312 @@
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Barlow:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=6.3.2
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Bebas+Neue:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Aclonica:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Acme:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Barlow:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=6.3.2
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Kaushan+Script:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Barlow:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=6.3.2
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=6.3.2
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\css-3
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/aclonica/v22/K2FyfZJVlfNNSEBXGY7UAoo.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\s\aclonica\v22\K2FyfZJVlfNNSEBXGY7UAoo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/acme/v25/RrQfboBx-C5_XxrBaw.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\s\acme\v25\RrQfboBx-C5_XxrBaw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHpv4kjgoGqM7E_DMs8.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\s\barlow\v12\7cHpv4kjgoGqM7E_DMs8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E30-8s51op.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\s\barlow\v12\7cHqv4kjgoGqM7E30-8s51op.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3j-ws51op.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\s\barlow\v12\7cHqv4kjgoGqM7E3j-ws51op.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3p-ks51op.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\s\barlow\v12\7cHqv4kjgoGqM7E3p-ks51op.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3q-0s51op.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\s\barlow\v12\7cHqv4kjgoGqM7E3q-0s51op.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3t-4s51op.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\s\barlow\v12\7cHqv4kjgoGqM7E3t-4s51op.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3w-os51op.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\s\barlow\v12\7cHqv4kjgoGqM7E3w-os51op.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3_-gs51op.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\s\barlow\v12\7cHqv4kjgoGqM7E3_-gs51op.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHrv4kjgoGqM7E3b_s7wHo.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\s\barlow\v12\7cHrv4kjgoGqM7E3b_s7wHo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHrv4kjgoGqM7E_Cfs7wHo.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\s\barlow\v12\7cHrv4kjgoGqM7E_Cfs7wHo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfO452ouvT8.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\s\barlow\v12\7cHsv4kjgoGqM7E_CfO452ouvT8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfOA5WouvT8.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\s\barlow\v12\7cHsv4kjgoGqM7E_CfOA5WouvT8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfOc5mouvT8.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\s\barlow\v12\7cHsv4kjgoGqM7E_CfOc5mouvT8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfOQ4mouvT8.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\s\barlow\v12\7cHsv4kjgoGqM7E_CfOQ4mouvT8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfP04WouvT8.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\s\barlow\v12\7cHsv4kjgoGqM7E_CfP04WouvT8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfPI42ouvT8.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\s\barlow\v12\7cHsv4kjgoGqM7E_CfPI42ouvT8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfPk5GouvT8.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\s\barlow\v12\7cHsv4kjgoGqM7E_CfPk5GouvT8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHtv4kjgoGqM7E_CfNY8H0JnQ.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\s\barlow\v12\7cHtv4kjgoGqM7E_CfNY8H0JnQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bebasneue/v14/JTUSjIg69CK48gW7PXoo9Wlhzg.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\s\bebasneue\v14\JTUSjIg69CK48gW7PXoo9Wlhzg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/kaushanscript/v18/vm8vdRfvXFLG3OLnsO15WYS5DG74wNc.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\s\kaushanscript\v18\vm8vdRfvXFLG3OLnsO15WYS5DG74wNc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\s\roboto\v32\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\s\roboto\v32\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\s\roboto\v32\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\s\roboto\v32\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\s\roboto\v32\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\s\roboto\v32\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\s\roboto\v32\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\s\roboto\v32\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\s\roboto\v32\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\s\roboto\v32\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\s\roboto\v32\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\s\roboto\v32\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://stats.wp.com/e-202444.js
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\e-202444.js
+Content Type: application/javascript
+
+Uri: https://stats.wp.com/s-202444.js
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\s-202444.js
+Content Type: application/javascript
+
+Uri: https://stats.wp.com/w.js?ver=202444
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\w.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\index.htm
+Content Type: text/html
+
+Uri: https://www.pcphoneshop.be/algemene-voorwaarden/
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\algemene-voorwaarden\index.htm
+Content Type: text/html
+
+Uri: https://www.pcphoneshop.be/cart/
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\cart\index.htm
+Content Type: text/html
+
+Uri: https://www.pcphoneshop.be/comments/feed/
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.pcphoneshop.be/faq/
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\faq\index.htm
+Content Type: text/html
+
+Uri: https://www.pcphoneshop.be/feed/
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.pcphoneshop.be/koop-een-toestel/
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\koop-een-toestel\index.htm
+Content Type: text/html
+
+Uri: https://www.pcphoneshop.be/my-account/
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\my-account\index.htm
+Content Type: text/html
+
+Uri: https://www.pcphoneshop.be/my-account/lost-password/
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\my-account\lost-password\index.htm
+Content Type: text/html
+
+Uri: https://www.pcphoneshop.be/overname-toestel/
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\overname-toestel\index.htm
+Content Type: text/html
+
+Uri: https://www.pcphoneshop.be/wishlist/
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wishlist\index.htm
+Content Type: text/html
+
+Uri: https://www.pcphoneshop.be/wp-admin/js/password-strength-meter.min.js?ver=6.3.2
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-admin\js\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.6.7
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\elementor\assets\css\widget-icon-list.min.css
+Content Type: text/css
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.6.7
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.6.7
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.6.7
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.6.7
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.15.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.15.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.15.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.15.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.15.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.15.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: application/x-font-woff
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\elementor\assets\lib\font-awesome\css\regular.min.css
+Content Type: text/css
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot?
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff
+Content Type: application/x-font-woff
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: application/x-font-woff
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-script.js?ver=3.2.8
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\elementskit-lite\libs\framework\assets\js\frontend-script.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons.css?ver=3.2.8
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\elementskit-lite\modules\elementskit-icon-pack\assets\css\ekiticons.css
+Content Type: text/css
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/fonts/elementskit.woff?y24e1e
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\elementskit-lite\modules\elementskit-icon-pack\assets\fonts\elementskit.woff
+Content Type: application/x-font-woff
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive.css?ver=3.2.8
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\elementskit-lite\widgets\init\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css?ver=3.2.8
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\elementskit-lite\widgets\init\assets\css\widget-styles.css
+Content Type: text/css
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/elementskit-lite/widgets/init/assets/img/arrow.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\elementskit-lite\widgets\init\assets\img\arrow.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/elementskit-lite/widgets/init/assets/img/cross-out.svg
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\elementskit-lite\widgets\init\assets\img\cross-out.svg
+Content Type: image/svg+xml
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_asc.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_asc.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_asc_disabled.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_asc_disabled.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_desc.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_desc.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle.min.js?ver=3.2.8
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\elementskit-lite\widgets\init\assets\js\animate-circle.min.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js?ver=3.2.8
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\elementskit-lite\widgets\init\assets\js\elementor.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scripts.js?ver=3.2.8
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\elementskit-lite\widgets\init\assets\js\widget-scripts.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min.css?ver=6.0.6
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\essential-addons-for-elementor-lite\assets\front-end\css\view\general.min.css
+Content Type: text/css
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/view/general.min.js?ver=6.0.6
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\essential-addons-for-elementor-lite\assets\front-end\js\view\general.min.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/forminator/assets/css/intlTelInput.min.css?ver=4.0.3
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\forminator\assets\css\intlTelInput.min.css
+Content Type: text/css
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/forminator/assets/forminator-ui/css/forminator-icons.min.css?ver=1.27.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\forminator\assets\forminator-ui\css\forminator-icons.min.css
+Content Type: text/css
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/forminator/assets/forminator-ui/css/src/form/forminator-form-default.base.min.css?ver=1.27.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\forminator\assets\forminator-ui\css\src\form\forminator-form-default.base.min.css
+Content Type: text/css
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/forminator/assets/forminator-ui/css/src/form/forminator-form-default.full.min.css?ver=1.27.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\forminator\assets\forminator-ui\css\src\form\forminator-form-default.full.min.css
+Content Type: text/css
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/forminator/assets/forminator-ui/css/src/form/forminator-form-default.pagination.min.css?ver=1.27.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\forminator\assets\forminator-ui\css\src\form\forminator-form-default.pagination.min.css
+Content Type: text/css
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/forminator/assets/forminator-ui/css/src/form/forminator-form-default.select2.min.css?ver=1.27.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\forminator\assets\forminator-ui\css\src\form\forminator-form-default.select2.min.css
+Content Type: text/css
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/forminator/assets/forminator-ui/css/src/forminator-utilities.min.css?ver=1.27.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\forminator\assets\forminator-ui\css\src\forminator-utilities.min.css
+Content Type: text/css
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/forminator/assets/forminator-ui/css/src/grid/forminator-grid.open.min.css?ver=1.27.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\forminator\assets\forminator-ui\css\src\grid\forminator-grid.open.min.css
+Content Type: text/css
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/forminator/assets/forminator-ui/fonts/forminator-icons-font.eot?1.7.4
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\forminator\assets\forminator-ui\fonts\forminator-icons-font.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/forminator/assets/forminator-ui/fonts/forminator-icons-font.svg?1.7.4
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\forminator\assets\forminator-ui\fonts\forminator-icons-font.svg
+Content Type: image/svg+xml
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/forminator/assets/forminator-ui/fonts/forminator-icons-font.ttf?1.7.4
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\forminator\assets\forminator-ui\fonts\forminator-icons-font.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/forminator/assets/forminator-ui/fonts/forminator-icons-font.woff2?1.7.4
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\forminator\assets\forminator-ui\fonts\forminator-icons-font.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/forminator/assets/forminator-ui/fonts/forminator-icons-font.woff?1.7.4
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\forminator\assets\forminator-ui\fonts\forminator-icons-font.woff
+Content Type: application/x-font-woff
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/forminator/assets/forminator-ui/js/forminator-form.min.js?ver=1.27.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\forminator\assets\forminator-ui\js\forminator-form.min.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/forminator/assets/forminator-ui/js/select2.full.min.js?ver=1.27.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\forminator\assets\forminator-ui\js\select2.full.min.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/forminator/assets/img/flags.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\forminator\assets\img\flags.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/forminator/assets/img/flags@2x.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\forminator\assets\img\flags@2x.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/forminator/assets/js/library/cleave-phone.i18n.js?ver=1.27.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\forminator\assets\js\library\cleave-phone.i18n.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/forminator/assets/js/library/cleave.min.js?ver=1.27.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\forminator\assets\js\library\cleave.min.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/forminator/assets/js/library/intlTelInput.min.js?ver=1.27.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\forminator\assets\js\library\intlTelInput.min.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/forminator/assets/js/library/jquery.validate.min.js?ver=1.27.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\forminator\assets\js\library\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/forminator/build/front/front.multi.min.js?ver=1.27.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\forminator\build\front\front.multi.min.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/jetpack/css/jetpack.css?ver=12.7
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\jetpack\css\jetpack.css
+Content Type: text/css
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/jetpack/modules/shortcodes/images/collapse.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\jetpack\modules\shortcodes\images\collapse.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/jetpack/modules/shortcodes/images/expand.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\jetpack\modules\shortcodes\images\expand.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/jetpack/modules/shortcodes/images/slide-nav.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\jetpack\modules\shortcodes\images\slide-nav.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/jetpack/modules/shortcodes/img/slideshow-controls-2x.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\jetpack\modules\shortcodes\img\slideshow-controls-2x.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/jetpack/modules/shortcodes/img/slideshow-controls.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\jetpack\modules\shortcodes\img\slideshow-controls.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/responsive-accordion-and-collapse/css/bootstrap-front.css?ver=6.3.2
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\responsive-accordion-and-collapse\css\bootstrap-front.css
+Content Type: text/css
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/responsive-accordion-and-collapse/css/font-awesome/css/font-awesome.min.css?ver=6.3.2
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\responsive-accordion-and-collapse\css\font-awesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/responsive-accordion-and-collapse/css/font-awesome/fonts/fontawesome-webfont.eot?
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\responsive-accordion-and-collapse\css\font-awesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/responsive-accordion-and-collapse/css/font-awesome/fonts/fontawesome-webfont.eot?v=4.1.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\responsive-accordion-and-collapse\css\font-awesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/responsive-accordion-and-collapse/css/font-awesome/fonts/fontawesome-webfont.svg?v=4.1.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\responsive-accordion-and-collapse\css\font-awesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/responsive-accordion-and-collapse/css/font-awesome/fonts/fontawesome-webfont.ttf?v=4.1.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\responsive-accordion-and-collapse\css\font-awesome\fonts\fontawesome-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/responsive-accordion-and-collapse/css/font-awesome/fonts/fontawesome-webfont.woff?v=4.1.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\responsive-accordion-and-collapse\css\font-awesome\fonts\fontawesome-webfont.woff
+Content Type: application/x-font-woff
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/responsive-accordion-and-collapse/js/accordion-custom.js?ver=6.3.2
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\responsive-accordion-and-collapse\js\accordion-custom.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/responsive-accordion-and-collapse/js/accordion.js?ver=6.3.2
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\responsive-accordion-and-collapse\js\accordion.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/woo-variation-swatches/assets/css/frontend.min.css?ver=1727983557
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\woo-variation-swatches\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/woo-variation-swatches/assets/js/frontend.min.js?ver=1727983557
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\woo-variation-swatches\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.min.css?ver=8.2.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.min.css
+Content Type: text/css
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.svg
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.svg
+Content Type: image/svg+xml
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/preloader.gif
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\preloader.gif
+Content Type: image/gif
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/woocommerce/assets/css/photoswipe/photoswipe.min.css?ver=8.2.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\woocommerce\assets\css\photoswipe\photoswipe.min.css
+Content Type: text/css
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/woocommerce/assets/css/prettyPhoto.css?ver=3.1.6
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\woocommerce\assets\css\prettyPhoto.css
+Content Type: text/css
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/woocommerce/assets/css/select2.css?ver=8.2.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\woocommerce\assets\css\select2.css
+Content Type: text/css
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/woocommerce/assets/fonts/star.eot
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\woocommerce\assets\fonts\star.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/woocommerce/assets/fonts/star.eot?
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\woocommerce\assets\fonts\star-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/woocommerce/assets/fonts/star.svg
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\woocommerce\assets\fonts\star.svg
+Content Type: image/svg+xml
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/woocommerce/assets/fonts/star.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\woocommerce\assets\fonts\star.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/woocommerce/assets/fonts/star.woff
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\woocommerce\assets\fonts\star.woff
+Content Type: application/x-font-woff
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot?
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\woocommerce\assets\fonts\WooCommerce-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.svg
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.svg
+Content Type: image/svg+xml
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.ttf
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.woff
+Content Type: application/x-font-woff
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/amex.svg
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\amex.svg
+Content Type: image/svg+xml
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/diners.svg
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\diners.svg
+Content Type: image/svg+xml
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/discover.svg
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\discover.svg
+Content Type: image/svg+xml
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/jcb.svg
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\jcb.svg
+Content Type: image/svg+xml
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/laser.svg
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\laser.svg
+Content Type: image/svg+xml
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/maestro.svg
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\maestro.svg
+Content Type: image/svg+xml
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/mastercard.svg
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\mastercard.svg
+Content Type: image/svg+xml
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/visa.svg
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\visa.svg
+Content Type: image/svg+xml
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/woocommerce/assets/images/icons/loader.svg
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\woocommerce\assets\images\icons\loader.svg
+Content Type: image/svg+xml
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/woocommerce/assets/js/flexslider/jquery.flexslider.min.js?ver=2.7.2-wc.8.2.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\woocommerce\assets\js\flexslider\jquery.flexslider.min.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=8.2.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart-variation.min.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=8.2.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/woocommerce/assets/js/frontend/address-i18n.min.js?ver=8.2.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\woocommerce\assets\js\frontend\address-i18n.min.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/woocommerce/assets/js/frontend/cart.min.js?ver=8.2.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\woocommerce\assets\js\frontend\cart.min.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/woocommerce/assets/js/frontend/country-select.min.js?ver=8.2.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\woocommerce\assets\js\frontend\country-select.min.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/woocommerce/assets/js/frontend/lost-password.min.js?ver=8.2.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\woocommerce\assets\js\frontend\lost-password.min.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/woocommerce/assets/js/frontend/password-strength-meter.min.js?ver=8.2.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\woocommerce\assets\js\frontend\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=8.2.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\woocommerce\assets\js\frontend\single-product.min.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=8.2.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.8.2.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.8.2.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe-ui-default.min.js?ver=4.1.1-wc.8.2.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\woocommerce\assets\js\photoswipe\photoswipe-ui-default.min.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe.min.js?ver=4.1.1-wc.8.2.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\woocommerce\assets\js\photoswipe\photoswipe.min.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/woocommerce/assets/js/prettyPhoto/jquery.prettyPhoto.min.js?ver=3.1.6
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\woocommerce\assets\js\prettyPhoto\jquery.prettyPhoto.min.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min.js?ver=1.0.9-wc.8.2.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\woocommerce\assets\js\selectWoo\selectWoo.full.min.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/woocommerce/assets/js/zoom/jquery.zoom.min.js?ver=1.7.21-wc.8.2.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\woocommerce\assets\js\zoom\jquery.zoom.min.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/yith-woocommerce-wishlist/assets/css/font-awesome.css?ver=4.7.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\yith-woocommerce-wishlist\assets\css\font-awesome.css
+Content Type: text/css
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/yith-woocommerce-wishlist/assets/css/jquery.selectBox.css?ver=1.2.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\yith-woocommerce-wishlist\assets\css\jquery.selectBox.css
+Content Type: text/css
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/yith-woocommerce-wishlist/assets/css/style.css?ver=3.26.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\yith-woocommerce-wishlist\assets\css\style.css
+Content Type: text/css
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/yith-woocommerce-wishlist/assets/fonts/fontawesome-webfont.eot?
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\yith-woocommerce-wishlist\assets\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/yith-woocommerce-wishlist/assets/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\yith-woocommerce-wishlist\assets\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/yith-woocommerce-wishlist/assets/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\yith-woocommerce-wishlist\assets\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/yith-woocommerce-wishlist/assets/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\yith-woocommerce-wishlist\assets\fonts\fontawesome-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/yith-woocommerce-wishlist/assets/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\yith-woocommerce-wishlist\assets\fonts\fontawesome-webfont.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/yith-woocommerce-wishlist/assets/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\yith-woocommerce-wishlist\assets\fonts\fontawesome-webfont.woff
+Content Type: application/x-font-woff
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/yith-woocommerce-wishlist/assets/images/jquery.selectBox-arrow.gif
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\yith-woocommerce-wishlist\assets\images\jquery.selectBox-arrow.gif
+Content Type: image/gif
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/yith-woocommerce-wishlist/assets/images/jquery.selectBox-arrow.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\yith-woocommerce-wishlist\assets\images\jquery.selectBox-arrow.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/yith-woocommerce-wishlist/assets/js/jquery.selectBox.min.js?ver=1.2.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\yith-woocommerce-wishlist\assets\js\jquery.selectBox.min.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/wp-content/plugins/yith-woocommerce-wishlist/assets/js/jquery.yith-wcwl.min.js?ver=3.26.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\plugins\yith-woocommerce-wishlist\assets\js\jquery.yith-wcwl.min.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/wp-content/themes/astra/assets/css/minified/compatibility/woocommerce/woocommerce-grid.min.css?ver=4.3.1
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\themes\astra\assets\css\minified\compatibility\woocommerce\woocommerce-grid.min.css
+Content Type: text/css
+
+Uri: https://www.pcphoneshop.be/wp-content/themes/astra/assets/css/minified/compatibility/woocommerce/woocommerce-layout-grid.min.css?ver=4.3.1
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\themes\astra\assets\css\minified\compatibility\woocommerce\woocommerce-layout-grid.min.css
+Content Type: text/css
+
+Uri: https://www.pcphoneshop.be/wp-content/themes/astra/assets/css/minified/compatibility/woocommerce/woocommerce-smallscreen-grid.min.css?ver=4.3.1
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\themes\astra\assets\css\minified\compatibility\woocommerce\woocommerce-smallscreen-grid.min.css
+Content Type: text/css
+
+Uri: https://www.pcphoneshop.be/wp-content/themes/astra/assets/css/minified/main.min.css?ver=4.3.1
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\themes\astra\assets\css\minified\main.min.css
+Content Type: text/css
+
+Uri: https://www.pcphoneshop.be/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=4.3.1
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\themes\astra\assets\js\minified\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/2021/11/1000_F_233100502_5hpsaTNSxMrKbFPxgNivjhH6sSg2AaY6-removebg-preview.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\2021\11\1000_F_233100502_5hpsaTNSxMrKbFPxgNivjhH6sSg2AaY6-removebg-preview.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/2021/11/3366891-removebg-preview-100x100.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\2021\11\3366891-removebg-preview-100x100.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/2021/11/3366891-removebg-preview-150x150.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\2021\11\3366891-removebg-preview-150x150.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/2021/11/3366891-removebg-preview-300x300.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\2021\11\3366891-removebg-preview-300x300.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/2021/11/3366891-removebg-preview.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\2021\11\3366891-removebg-preview.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/2021/11/50881510_327538107860667_2125523067898691584_n-removebg-preview-100x100.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\2021\11\50881510_327538107860667_2125523067898691584_n-removebg-preview-100x100.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/2021/11/50881510_327538107860667_2125523067898691584_n-removebg-preview-150x150.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\2021\11\50881510_327538107860667_2125523067898691584_n-removebg-preview-150x150.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/2021/11/50881510_327538107860667_2125523067898691584_n-removebg-preview-300x300.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\2021\11\50881510_327538107860667_2125523067898691584_n-removebg-preview-300x300.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/2021/11/50881510_327538107860667_2125523067898691584_n-removebg-preview.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\2021\11\50881510_327538107860667_2125523067898691584_n-removebg-preview.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/2021/11/6s-1.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\2021\11\6s-1.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/2021/11/6spng-1.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\2021\11\6spng-1.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/2021/11/6t.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\2021\11\6t.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/2021/11/a20e.jpg
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\2021\11\a20e.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/2021/11/care.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\2021\11\care.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/2021/11/cropped-50881510_327538107860667_2125523067898691584_n-150x150.jpg
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\2021\11\cropped-50881510_327538107860667_2125523067898691584_n-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/2021/11/cropped-50881510_327538107860667_2125523067898691584_n-180x180.jpg
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\2021\11\cropped-50881510_327538107860667_2125523067898691584_n-180x180.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/2021/11/cropped-50881510_327538107860667_2125523067898691584_n-192x192.jpg
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\2021\11\cropped-50881510_327538107860667_2125523067898691584_n-192x192.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/2021/11/cropped-50881510_327538107860667_2125523067898691584_n-270x270.jpg
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\2021\11\cropped-50881510_327538107860667_2125523067898691584_n-270x270.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/2021/11/cropped-50881510_327538107860667_2125523067898691584_n-300x300.jpg
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\2021\11\cropped-50881510_327538107860667_2125523067898691584_n-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/2021/11/cropped-50881510_327538107860667_2125523067898691584_n-32x32.jpg
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\2021\11\cropped-50881510_327538107860667_2125523067898691584_n-32x32.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/2021/11/cropped-50881510_327538107860667_2125523067898691584_n-removebg-preview-300x215.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\2021\11\cropped-50881510_327538107860667_2125523067898691584_n-removebg-preview-300x215.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/2021/11/cropped-50881510_327538107860667_2125523067898691584_n-removebg-preview-85x61.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\2021\11\cropped-50881510_327538107860667_2125523067898691584_n-removebg-preview-85x61.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/2021/11/cropped-50881510_327538107860667_2125523067898691584_n-removebg-preview.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\2021\11\cropped-50881510_327538107860667_2125523067898691584_n-removebg-preview.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/2021/11/cropped-50881510_327538107860667_2125523067898691584_n.jpg
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\2021\11\cropped-50881510_327538107860667_2125523067898691584_n.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/2021/11/g2.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\2021\11\g2.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/2021/11/g7-1.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\2021\11\g7-1.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/2021/11/g7-2.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\2021\11\g7-2.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/2021/11/g7-3.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\2021\11\g7-3.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/2021/11/g7.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\2021\11\g7.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/2021/11/g7l.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\2021\11\g7l.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/2021/11/help.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\2021\11\help.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/2021/11/incognito.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\2021\11\incognito.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/2021/11/ipad-new-1.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\2021\11\ipad-new-1.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/2021/11/ipad-new.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\2021\11\ipad-new.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/2021/11/lumia.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\2021\11\lumia.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/2021/11/n9p.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\2021\11\n9p.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/2021/11/note10p.jpg
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\2021\11\note10p.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/2021/11/onep7pro.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\2021\11\onep7pro.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/2021/11/p10p.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\2021\11\p10p.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/2021/11/p20pro-1.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\2021\11\p20pro-1.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/2021/11/p30pro-2.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\2021\11\p30pro-2.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/2021/11/psm.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\2021\11\psm.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/2021/11/q60.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\2021\11\q60.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/2021/11/s10ready.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\2021\11\s10ready.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/2021/11/s20lite.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\2021\11\s20lite.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/2021/11/s5.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\2021\11\s5.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/2021/11/s6ep.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\2021\11\s6ep.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/2021/11/transparency.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\2021\11\transparency.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/2021/11/Untitled-design-2.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\2021\11\Untitled-design-2.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/2021/11/xsm.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\2021\11\xsm.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/2021/11/xz2-1.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\2021\11\xz2-1.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/2021/11/xz2-2.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\2021\11\xz2-2.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/2021/11/xz2.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\2021\11\xz2.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/elementor/css/global.css?ver=1727983481
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/elementor/css/post-1350.css?ver=1727983630
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\elementor\css\post-1350.css
+Content Type: text/css
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/elementor/css/post-30.css?ver=1727983482
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\elementor\css\post-30.css
+Content Type: text/css
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/elementor/css/post-33.css?ver=1727983480
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\elementor\css\post-33.css
+Content Type: text/css
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/elementor/css/post-377.css?ver=1727983587
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\elementor\css\post-377.css
+Content Type: text/css
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/elementor/css/post-379.css?ver=1727983636
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\elementor\css\post-379.css
+Content Type: text/css
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/elementor/thumbs/50881510_327538107860667_2125523067898691584_n-removebg-preview-pfr1ux1qn4a78ktda45ynp41oj7ixatbjiylkx4on0.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\elementor\thumbs\50881510_327538107860667_2125523067898691584_n-removebg-preview-pfr1ux1qn4a78ktda45ynp41oj7ixatbjiylkx4on0.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/elementor/thumbs/apple-1-pfrvguyuyhh9eu7jczddlx659d5s14q8oss31lasdc.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\elementor\thumbs\apple-1-pfrvguyuyhh9eu7jczddlx659d5s14q8oss31lasdc.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/elementor/thumbs/huawei-1-pfrvj01miweruv3kuwosadpxyylvkb88be9wea4i74.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\elementor\thumbs\huawei-1-pfrvj01miweruv3kuwosadpxyylvkb88be9wea4i74.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/elementor/thumbs/lg-1-pfrvl628a5dkmhy97cetjc179xxcb6tya4f788wtuo.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\elementor\thumbs\lg-1-pfrvl628a5dkmhy97cetjc179xxcb6tya4f788wtuo.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/elementor/thumbs/nokia-1-pfrvjkq2p972ya9ji5mkt8i31fry9nibq8mkyd9ue8.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\elementor\thumbs\nokia-1-pfrvjkq2p972ya9ji5mkt8i31fry9nibq8mkyd9ue8.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/elementor/thumbs/oneplus-pfrvidhhyvjw480cimxqmjevppp2fkqo8am8vn1ycg.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\elementor\thumbs\oneplus-pfrvidhhyvjw480cimxqmjevppp2fkqo8am8vn1ycg.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/elementor/thumbs/samsung-1-pfrvhvmkd0vfzmqaex7tt5x4fe53dbrrtu80rdsfmo.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\elementor\thumbs\samsung-1-pfrvhvmkd0vfzmqaex7tt5x4fe53dbrrtu80rdsfmo.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/elementor/thumbs/sony-1-pfrvkb1k0m73zd7b8h04r1uzo86896et5uw6e46tk0.png
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\elementor\thumbs\sony-1-pfrvkb1k0m73zd7b8h04r1uzo86896et5uw6e46tk0.png
+Content Type: image/png
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/essential-addons-elementor/eael-1350.css?ver=1638989837
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\essential-addons-elementor\eael-1350.css
+Content Type: text/css
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/essential-addons-elementor/eael-1350.js?ver=1638989837
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\essential-addons-elementor\eael-1350.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/essential-addons-elementor/eael-30.css?ver=1638989713
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\essential-addons-elementor\eael-30.css
+Content Type: text/css
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/essential-addons-elementor/eael-30.js?ver=1638989713
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\essential-addons-elementor\eael-30.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/essential-addons-elementor/eael-377.css?ver=1638989918
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\essential-addons-elementor\eael-377.css
+Content Type: text/css
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/essential-addons-elementor/eael-377.js?ver=1638989918
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\essential-addons-elementor\eael-377.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/essential-addons-elementor/eael-379.css?ver=1638798727
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\essential-addons-elementor\eael-379.css
+Content Type: text/css
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/essential-addons-elementor/eael-379.js?ver=1638798727
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\essential-addons-elementor\eael-379.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/forminator/1051_f98bfa84350b0fc733ebbc2a73049c34/css/style-1051.css?ver=1675445727
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\forminator\1051_f98bfa84350b0fc733ebbc2a73049c34\css\style-1051.css
+Content Type: text/css
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/forminator/1445_69c8a311f756be0aa663b60fa9cffce1/css/style-1445.css?ver=1675445658
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\forminator\1445_69c8a311f756be0aa663b60fa9cffce1\css\style-1445.css
+Content Type: text/css
+
+Uri: https://www.pcphoneshop.be/wp-content/uploads/forminator/508_8f54fa6cef9ef9810283969b23f5bde5/css/style-508.css?ver=1675445691
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-content\uploads\forminator\508_8f54fa6cef9ef9810283969b23f5bde5\css\style-508.css
+Content Type: text/css
+
+Uri: https://www.pcphoneshop.be/wp-includes/css/buttons.min.css?ver=6.3.2
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-includes\css\buttons.min.css
+Content Type: text/css
+
+Uri: https://www.pcphoneshop.be/wp-includes/css/dist/block-library/style.min.css?ver=6.3.2
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://www.pcphoneshop.be/wp-includes/js/api-request.min.js?ver=6.3.2
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-includes\js\api-request.min.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/wp-includes/js/dist/api-fetch.min.js?ver=0fa4dabf8bf2c7adf21a
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-includes\js\dist\api-fetch.min.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/wp-includes/js/dist/url.min.js?ver=8814d23f2d64864d280d
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-includes\js\dist\url.min.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.11
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-includes\js\dist\vendor\wp-polyfill-inert.min.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/wp-includes/js/jquery/jquery.min.js?ver=3.7.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-includes\js\mediaelement\mediaelementplayer-legacy.min.css
+Content Type: text/css
+
+Uri: https://www.pcphoneshop.be/wp-includes/js/mediaelement/mejs-controls.svg
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-includes\js\mediaelement\mejs-controls.svg
+Content Type: image/svg+xml
+
+Uri: https://www.pcphoneshop.be/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.3.2
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-includes\js\mediaelement\wp-mediaelement.min.css
+Content Type: text/css
+
+Uri: https://www.pcphoneshop.be/wp-includes/js/underscore.min.js?ver=1.13.4
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-includes\js\underscore.min.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/wp-includes/js/wp-util.min.js?ver=6.3.2
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-includes\js\wp-util.min.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/wp-includes/js/zxcvbn-async.min.js?ver=1.0
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-includes\js\zxcvbn-async.min.js
+Content Type: application/javascript
+
+Uri: https://www.pcphoneshop.be/wp-json/
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://www.pcphoneshop.be/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pcphoneshop.be%2F
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://www.pcphoneshop.be/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pcphoneshop.be%2F&format=xml
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://www.pcphoneshop.be/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pcphoneshop.be%2Falgemene-voorwaarden%2F
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://www.pcphoneshop.be/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pcphoneshop.be%2Falgemene-voorwaarden%2F&format=xml
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://www.pcphoneshop.be/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pcphoneshop.be%2Fcart%2F
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://www.pcphoneshop.be/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pcphoneshop.be%2Fcart%2F&format=xml
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://www.pcphoneshop.be/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pcphoneshop.be%2Ffaq%2F
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://www.pcphoneshop.be/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pcphoneshop.be%2Ffaq%2F&format=xml
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://www.pcphoneshop.be/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pcphoneshop.be%2Fkoop-een-toestel%2F
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://www.pcphoneshop.be/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pcphoneshop.be%2Fkoop-een-toestel%2F&format=xml
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://www.pcphoneshop.be/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pcphoneshop.be%2Fmy-account%2F
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://www.pcphoneshop.be/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pcphoneshop.be%2Fmy-account%2F&format=xml
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://www.pcphoneshop.be/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pcphoneshop.be%2Fovername-toestel%2F
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://www.pcphoneshop.be/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pcphoneshop.be%2Fovername-toestel%2F&format=xml
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://www.pcphoneshop.be/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pcphoneshop.be%2Fwishlist%2F
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://www.pcphoneshop.be/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pcphoneshop.be%2Fwishlist%2F&format=xml
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://www.pcphoneshop.be/wp-json/wp/v2/pages/1350
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-json\wp\v2\pages\1350
+Content Type: application/json
+
+Uri: https://www.pcphoneshop.be/wp-json/wp/v2/pages/1681
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-json\wp\v2\pages\1681
+Content Type: application/json
+
+Uri: https://www.pcphoneshop.be/wp-json/wp/v2/pages/30
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-json\wp\v2\pages\30
+Content Type: application/json
+
+Uri: https://www.pcphoneshop.be/wp-json/wp/v2/pages/377
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-json\wp\v2\pages\377
+Content Type: application/json
+
+Uri: https://www.pcphoneshop.be/wp-json/wp/v2/pages/379
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-json\wp\v2\pages\379
+Content Type: application/json
+
+Uri: https://www.pcphoneshop.be/wp-json/wp/v2/pages/744
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-json\wp\v2\pages\744
+Content Type: application/json
+
+Uri: https://www.pcphoneshop.be/wp-json/wp/v2/pages/746
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-json\wp\v2\pages\746
+Content Type: application/json
+
+Uri: https://www.pcphoneshop.be/wp-json/wp/v2/pages/761
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\wp-json\wp\v2\pages\761
+Content Type: application/json
+
+Uri: https://www.pcphoneshop.be/xmlrpc.php?rsd
+File Name: C:\Users\mulay\Pictures\SITE KOPYA\Nieuwe map (146)\www.pcphoneshop.be\xmlrpc.php
+Content Type: text/xml
+
